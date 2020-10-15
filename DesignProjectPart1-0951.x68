@@ -2,6 +2,8 @@
 * Title      : ECE441 Design Project Part 1
 * Written by : Guojun Yang
 * Date       : JAN 03 2019
+* Modified by: Jun Xia
+* Date       : Oct 13 2020
 * Description:
 *-----------------------------------------------------------
     ORG    $1000
